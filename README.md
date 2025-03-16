@@ -2,6 +2,8 @@
 ## Overview
 This repository contains exploratory data analysis (EDA) for the Unicorn Companies dataset. The Unicorn Companies dataset comprises information about various companies around the world that have achieved a valuation of over $1 billion, also known as unicorn startups.
 
+## Dataset link : https://www.kaggle.com/datasets/deepcontractor/unicorn-companies-dataset
+
 ## Dataset Description
 The Unicorn Companies dataset includes the following columns:
 
